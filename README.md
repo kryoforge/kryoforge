@@ -1,16 +1,19 @@
-## Hi there 👋
+# KryoForge
 
-<!--
-**kryoforge/kryoforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python & NS3 implementations — algorithms, models, and network simulations.
 
-Here are some ideas to get you started:
+## What We Build
+- 🐍 Python implementations (ML models, algorithms, data pipelines)
+- 📡 NS3 network simulations (routing protocols, wireless networks, topologies)
+- 🔬 Reference code for researchers, students & developers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![NS3](https://img.shields.io/badge/-NS--3-0A7373?style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+## Get in Touch
+📩 hello.kryoforge@gmail.com
+🔗 Portfolio: *(add link once live)*
+
+Open for custom simulation requests.
